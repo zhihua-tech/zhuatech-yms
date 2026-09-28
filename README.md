@@ -1,5 +1,7 @@
 # ZhuaTech Yms｜知华科技园区与月台管理 YMS
 
+[简体中文](README.md) | [English](README.en.md)
+
 > 让车辆、门岗、月台和装卸资源在同一节奏下协同
 
 [![Java 21](https://img.shields.io/badge/Java-21-376b3e)](backend/pom.xml)
